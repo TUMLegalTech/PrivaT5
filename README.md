@@ -4,6 +4,8 @@ Welcome to the PrivaT5 repository! This repository hosts the pre-trained PrivaT5
 
 ## Introduction
 
+This repository contains the models for the paper [PrivaT5: A Generative Language Model for Privacy Policies](https://aclanthology.org/2024.privatenlp-1.16.pdf).
+
 In the digital age, privacy policies are essential for informing users about how their data is collected, used, and shared. Despite their importance, these documents are often lengthy, complex, and difficult to understand for the average user. To address this issue, we introduce PrivaT5, a generative language model based on T5, pre-trained specifically on privacy policy texts. PrivaT5 aims to make privacy policies more accessible and comprehensible.
 
 PrivaT5 leverages the power of continued domain-specific pre-training to excel in privacy policy-related tasks. By building on the T5 architecture and training on a large corpus of privacy policy documents, PrivaT5 offers improved performance and understanding in this niche but critical domain.
